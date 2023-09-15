@@ -2,7 +2,8 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
-	    
+
+		Scanner read = new Scanner(System.in);
 		float valor_produto;
 		System.out.print("Informe o valor do produto: R$");
 		  valor_produto = read.nextFloat();
