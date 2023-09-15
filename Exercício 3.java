@@ -8,3 +8,5 @@ public class Main
 		  temperatura_fahrenheit = read.nextDouble();
 		  temperatura_centigrados = (temperatura_fahrenheit - 32)/1.8;	
 		System.out.printf("A temperatura informada convertida em graus centígrados é igual a %.2f°C.", temperatura_centigrados);
+	}
+}
