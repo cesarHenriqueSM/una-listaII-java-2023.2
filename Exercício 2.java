@@ -9,3 +9,5 @@ public class Main
 		float acrescimo = (valor_produto/100)*10;
 		float valor_final = valor_produto + acrescimo;
 		System.out.printf("O valor informado acrescido é igual a R$%.2f", valor_final);
+	}
+}
