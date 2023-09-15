@@ -11,3 +11,5 @@ public class Main
 		    n2 = read.nextFloat();
 		  media = (n1 + n2)/2;
 		  System.out.printf("A média aritmétrica dos números informados é igual a %.1f", media);
+	}
+}
