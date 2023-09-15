@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
+		Scanner read = new Scanner(System.in);
     		double capital_aplicado;
 		System.out.print("Informe o valor a ser aplicado: R$");
 			capital_aplicado = read.nextDouble();
